@@ -1,6 +1,6 @@
 # NetFilter
 Created by Peter Stiglitz
-Returns ranges of IP's from subnets containing excluded IP addresses
+Returns ranges of IP's from subnets without excluded IP addresses
 
 Usage: 
 1. Add list of subnets to the IPs.txt, putting a new subnet on a new line
